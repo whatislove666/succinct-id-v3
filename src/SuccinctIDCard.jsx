@@ -1,1 +1,0 @@
-// Component with final layout
